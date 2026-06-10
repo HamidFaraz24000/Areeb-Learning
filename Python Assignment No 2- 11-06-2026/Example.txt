@@ -1,0 +1,9 @@
+Hello , My name is Areeb Ibrahim.
+I am currently learning how to use and code python. 
+This is the second assignment that I am doing.
+This assignment requires me to read a text file and analyse it. 
+I am also required to provide the statistics of the text file that needs analysing.
+I need to get the total words, total line as well as the total characteristics 
+I also need to get the 10 most frequently used words as well as the count for unique words.
+I also need to be able to search for a specific word and see how many times it appears. 
+This text file will be used and analysed for my second python assignment. 
