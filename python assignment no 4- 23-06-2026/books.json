@@ -1,0 +1,34 @@
+[
+    {
+        "book_id": "B001",
+        "title": "Harry Potter",
+        "author": "JK Rowling",
+        "category": "Fantasy",
+        "total_copies": 4,
+        "available_copies": 3
+    },
+    {
+        "book_id": "B002",
+        "title": "Lord of the Rings",
+        "author": "Stephen King",
+        "category": "Fantasy",
+        "total_copies": 5,
+        "available_copies": 4
+    },
+    {
+        "book_id": "B003",
+        "title": "Life of PI",
+        "author": "Manter Poe",
+        "category": "Fiction",
+        "total_copies": 3,
+        "available_copies": 3
+    },
+    {
+        "book_id": "B004",
+        "title": "Romeo and Juliet",
+        "author": "William",
+        "category": "Romance",
+        "total_copies": 4,
+        "available_copies": 3
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "borrow_id": "BR001",
+        "book_id": "B002",
+        "book_title": "Lord of the Rings",
+        "member_id": "M001",
+        "member_name": "joe",
+        "borrow_date": "2026-06-23 15:05:08",
+        "return_date": "2026-06-23 15:05:58",
+        "status": "Returned"
+    },
+    {
+        "borrow_id": "BR002",
+        "book_id": "B001",
+        "book_title": "Harry Potter",
+        "member_id": "M002",
+        "member_name": "Bob",
+        "borrow_date": "2026-06-23 15:05:22",
+        "return_date": "",
+        "status": "Borrowed"
+    },
+    {
+        "borrow_id": "BR003",
+        "book_id": "B004",
+        "book_title": "Romeo and Juliet",
+        "member_id": "M001",
+        "member_name": "joe",
+        "borrow_date": "2026-06-23 15:06:12",
+        "return_date": "2026-06-23 15:07:53",
+        "status": "Returned"
+    },
+    {
+        "borrow_id": "BR004",
+        "book_id": "B002",
+        "book_title": "Lord of the Rings",
+        "member_id": "M001",
+        "member_name": "joe",
+        "borrow_date": "2026-06-23 15:07:01",
+        "return_date": "",
+        "status": "Borrowed"
+    },
+    {
+        "borrow_id": "BR005",
+        "book_id": "B004",
+        "book_title": "Romeo and Juliet",
+        "member_id": "M004",
+        "member_name": "Robert",
+        "borrow_date": "2026-06-23 15:07:12",
+        "return_date": "",
+        "status": "Borrowed"
+    }
+]
