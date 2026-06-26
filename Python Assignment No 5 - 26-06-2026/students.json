@@ -1,0 +1,34 @@
+[
+  {
+    "id": 2,
+    "name": "Ali Khan",
+    "age": 22,
+    "email": "ali@example.com",
+    "course": "Computer Science",
+    "marks": 85
+  },
+  {
+    "id": 3,
+    "name": "Bob Steven",
+    "age": 26,
+    "email": "bob@gmmail.com",
+    "course": "Physics",
+    "marks": 76
+  },
+  {
+    "id": 4,
+    "name": "John Doe",
+    "age": 20,
+    "email": "johnd@gmmail.com",
+    "course": "Mathematics",
+    "marks": 80
+  },
+  {
+    "id": 1,
+    "name": "Areeb",
+    "age": 21,
+    "email": "areeb@gmail.com",
+    "course": "Computer Science",
+    "marks": 81
+  }
+]
